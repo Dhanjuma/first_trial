@@ -7,3 +7,5 @@ the comment continues
 */
 console.log(c);
 
+let y = 45
+console.log(y);
